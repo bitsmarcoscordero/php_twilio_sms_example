@@ -1,0 +1,10 @@
+El proyecto esta realizado usando la ultima version estable sdk de Twilio-php 6.7.
+Como requerimiento debe tener instalado la version 7.2 preferentemente de php.
+El archivo index y prueba solo se crearon a modo de prueba y para mostrar como se 
+puede usar la clase, la cual se puede seguir ampliando en caso de necesitar 
+algun otro servicio de Twilio.
+
+Los parametros que se usan los otorga Twilio y los numeros, el origen pertenece a 
+la cuenta creada la cual tiene sid y token o clave y el numero destino debe estar validado por Twilio...
+ 
+Ing. Marcos Raúl Cordero Vázquez
